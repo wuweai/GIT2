@@ -1,0 +1,1 @@
+print("子字串判斷為: YES") if input("sA:") in input("sB:") else print("子字串判斷為: NO")
